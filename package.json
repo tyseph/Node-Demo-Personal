@@ -1,0 +1,11 @@
+{
+  "name": "node-demo-personal",
+  "version": "1.0.0",
+  "description": "My Personal Demo files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sajal Ganjewala",
+  "license": "ISC"
+}
