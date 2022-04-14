@@ -4,8 +4,14 @@
   "description": "My Personal Demo files",
   "main": "index.js",
   "scripts": {
+    "start": "node script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sajal Ganjewala",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "react": "^18.0.0"
+  }
 }
